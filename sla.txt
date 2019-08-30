@@ -1,5 +1,13 @@
 sla
 O Isaac é chato
+<<<<<<< HEAD
 alo
 
 aloooooo
+=======
+<<<<<<< HEAD
+pao e mt bom
+=======
+alo
+>>>>>>> aa95948652ea406d7338b77277c41564fbcc4d77
+>>>>>>> c562a64528a6ae490ac6edec08c43deaa197545a
